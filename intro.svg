@@ -1,5 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" style="background-color:#1E1E1E;">
-    <style>       
+    <style>
+        text {
+            font-size: 16px;
+        }
         @media (prefers-color-scheme: dark) {
             :root {
                 --bg: none;
