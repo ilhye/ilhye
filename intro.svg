@@ -1,54 +1,66 @@
-<svg fill="none" viewBox="0 0 120 120" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-       
-        <div style="background-color: var(--bg); color: var(--text); width: 100%; height: auto; border: 2px solid white; border-radius: 5px;  font-family: 'Consolas'; padding: 25px; overflow: hidden; @media(prefers-color-scheme: dark) {:root { --text: #fff; --bg: #000}}">
-            <div style="width: 30%; float: left; font-family: 'Consolas' ; font-size: 6px;">
-                <img src="https://i.pinimg.com/736x/71/3a/d5/713ad57ee23ae434c166a2012ca2cd14.jpg" style="width: 300px; height: 300px;"/>
-            </div>
-            <div style="width: 60%; float: right; ">
-                <p style="margin-bottom: 0px;"><a href="https://github.com/ilhye" style="text-decoration: none; color: #a5d6ff;">@ilhye</a></p>
-                <p style="margin-bottom: 0px;">-------------------</p>
-                <p style="margin-bottom: 0px;">
-                    <span style="color: #ffa657;">OS:</span>
-                    <span style="color: #a5d6ff;">Windows</span>
-                </p>
-                <p style="margin-bottom: 0px;">
-                    <span style="color: #ffa657;">IDE:</span>
-                    <span style="color: #a5d6ff;"> VS Code, Netbeans</span>
-                </p>
-                <p style="margin-top: 20px; margin-bottom: 0px;">
-                    <span style="color: #ffa657;">Language.Programming:</span>
-                    <span style="color: #a5d6ff;"> C, Java, Python, JavaScript</span>
-                </p>
-                <p style="margin-bottom: 0px">
-                    <span style="color: #ffa657;">Language.Frontend:</span>
-                    <span style="color: #a5d6ff;"> HTML, CSS, JavaScript, React JS, Bootstrap, Material UI</span>
-                </p>
-                <p style="margin-bottom: 0px">
-                    <span style="color: #ffa657;">Language.Backend:</span>
-                    <span style="color: #a5d6ff;"> MySQL, Firebase, Flask</span>
-                </p>
-                <p style="margin-bottom: 0px">
-                    <span style="color: #ffa657;">Language.Real:</span>
-                    <span style="color: #a5d6ff;"> Tagalog, English</span>
-                </p>
-                <p style="margin-top: 20px; margin-bottom: 0px; color: #ffa657;">Contact:</p>
-                <p style="margin-bottom: 0px;">-------------------</p>
-                <p style="margin-bottom: 0px;">
-                    <span style="color: #ffa657;">Email:</span>
-                    <span style="color: #a5d6ff;"> cristinavillasor960@gmail.com </span>
-                </p>
-                <p style="margin-bottom: 0px;">
-                    <span style="color: #ffa657;">LinkedIn: </span>
-                    <a href="https://www.linkedin.com/in/cristina-villasor-342448296/" style="text-decoration: none; color: #a5d6ff;">Cristina Villasor</a>
-                </p>
-                <p style="margin-bottom: 0px;">
-                    <span style="color: #ffa657;">Discord:</span>
-                    <span style="color: #a5d6ff;"> ilhye</span>
-                </p>
-            </div>
-        </div>
-    </div>
-  </foreignObject>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" style="background-color:#1E1E1E;">
+    <style>       
+        :root {
+            --bg: #ffffff;
+            --text: #000000;
+        }
+
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --bg: #000000;
+                --text: #ffffff;
+            }
+        }
+    </style>
+    <rect width="100%" height="100%" fill="var(--bg)" />
+    <image href="ok.jpg" width="350" height="360" x="30" y="30" />
+    <text x="420" y="40" font-family="Consolas" fill="#a5d6ff">
+        ilhye
+    </text>
+    <text x="420" y="60" font-family="Consolas" fill="#FFFFFF">
+        -------------------
+    </text>
+    <text x="420" y="90" font-family="Consolas">
+        <tspan fill="#ffa657">Operating System:</tspan> 
+        <tspan fill="#a5d6ff">Windows 10</tspan>
+    </text>
+    <text x="420" y="115" font-family="Consolas">
+        <tspan fill="#ffa657">IDE:</tspan> 
+        <tspan fill="#a5d6ff">Visual Studio Code, NetBeans</tspan>
+    </text>
+    <text x="420" y="170" font-family="Consolas">
+        <tspan fill="#ffa657">Languages.Programming:</tspan> 
+        <tspan fill="#a5d6ff">C, Python, JavaScript, Java</tspan>
+    </text>
+    <text x="420" y="195" font-family="Consolas">
+        <tspan fill="#ffa657">Languages.Frontend:</tspan>
+        <tspan fill="#a5d6ff"> HTML, CSS, JavaScript, React JS, Bootstrap, Material UI, Tailwind</tspan>
+    </text>
+    <text x="420" y="220" font-family="Consolas">
+        <tspan fill="#ffa657">Languages.Backend:</tspan>
+        <tspan fill="#a5d6ff"> Node JS, MySQL, Firebase</tspan>
+    </text>
+    <text x="420" y="245" font-family="Consolas"  fill="#FFFFFF">
+        <tspan fill="#ffa657">Languages.Real</tspan>
+        <tspan fill="#a5d6ff">: Tagalog, English</tspan>
+    </text>
+    <text x="420" y="300" font-family="Consolas" fill="#ffa657">
+        Contact:
+    </text>
+    <text x="420" y="320" font-family="Consolas" fill="#FFFFFF">
+        -------------------
+    </text>
+    <text x="420" y="350" font-family="Consolas">
+        <tspan fill="#ffa657">Email:</tspan>
+        <tspan fill="#a5d6ff"> cristinavillasor960@gmail.com</tspan>
+    </text>
+    <text x="420" y="375" font-family="Consolas">
+        <tspan fill="#ffa657">LinkedIn:</tspan>
+        <tspan fill="#a5d6ff"> https://www.linkedin.com/in/cristina-villasor-342448296/</tspan>
+    </text>
+    <text x="420" y="400" font-family="Consolas">
+        <tspan fill="#ffa657">Discord:</tspan>
+        <tspan fill="#a5d6ff"> ilhye</tspan>
+    </text>
+    
 </svg>
