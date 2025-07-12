@@ -43,11 +43,11 @@
     </text>
     <text x="420" y="375" font-family="Consolas" font-size="20px">
         <tspan fill="#ffa657">LinkedIn:</tspan>
-        <tspan fill="#a5d6ff"> <a href="https://www.linkedin.com/in/cristina-villasor-342448296/">Cristina Villasor</a></tspan>
+        <tspan fill="#a5d6ff"> Cristina Villasor</tspan>
     </text>
     <text x="420" y="400" font-family="Consolas" font-size="20px">
         <tspan fill="#ffa657">Discord:</tspan>
-        <tspan fill="#a5d6ff"> <a href="https://discordapp.com/users/1001012276586889286">ilhye</a></tspan>
+        <tspan fill="#a5d6ff">ilhye</tspan>
     </text>
     
 </svg>
